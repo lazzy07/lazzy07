@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/lazzy071" target="blank"><img src="https://img.shields.io/twitter/follow/lazzy071?logo=twitter&style=for-the-badge" alt="lazzy071" /></a> </p>
 
+- 🔭 I’m currently working on [Material Designer](https://github.com/lazzy07/material_designer_library)
+
+- 🌱 I’m currently learning **Rust, C#**
+
+- 👨‍💻 All of my projects are available at [https://lazzy07.github.io/about/](https://lazzy07.github.io/about/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lazzy071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazzy071" height="30" width="40" /></a>
